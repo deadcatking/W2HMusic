@@ -1,7 +1,7 @@
 {
-  "name": "Music Bot",
+  "name": "Nobita music Bot",
   "description": "Open-Source bot to play songs in your Telegram's Group Voice Chat. Powered by PyTgCalls.",
-  "logo": "https://telegra.ph/file/41871555394988009d3ca.jpg",
+  "logo": "https://telegra.ph/file/a72de2f7c16e021bb70c3.jpg".
   "keywords": ["music", "voicechat", "telegram"],
   "repository": "https://github.com/W2HGalaxy-Op/W2HMusic",
   "stack": "container",
