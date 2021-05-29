@@ -1,5 +1,5 @@
-# W2HMusic TELEGRAM VC MUSIC BOT 
-[![W2HMusic logo](https://telegra.ph/file/41871555394988009d3ca.jpg)](https://t.me/W2HSupport)
+# Nobita TELEGRAM VC MUSIC BOT 
+[![Nobita Music logo](https://telegra.ph/file/a72de2f7c16e021bb70c3.jpg)](https://t.me/Yaari_sabse_nyaari)
 
 
 -It is inspired from su music project and hamkercat's telegram voice bot.
